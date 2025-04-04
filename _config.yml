@@ -7,7 +7,7 @@
 ##########
 # Play SETTINGS
 # Enter a Google sheets link (like the one below), a relative link to a CSV file in the repository (e.g. /assets/data/play_example.csv), or a link to a CSV file stored somewhere accessible on the internet (i.e. https://example.com/play_example.csv)
-play: /assets/data/Hamlet.csv
+play: /assets/data/midsummer.csv
 
 
 ##########
